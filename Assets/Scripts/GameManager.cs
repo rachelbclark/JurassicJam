@@ -17,11 +17,10 @@ public class GameManager : MonoBehaviour
 	public SceneType sceneType;
 
 	public AudioClip backgroundMusic;
-	public AudioClip hiddenMusic;
+
 	public AudioClip bossMusic;
 	public AudioClip explodingBlock;
-	public AudioClip lockQuack;
-	public AudioClip unlockQuack;
+
 	public AudioClip enemy;
 
 	public Image key;
